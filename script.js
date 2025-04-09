@@ -1,4 +1,6 @@
+
 //                           Q1 Add these two numbers
+
 let a=50;
 let b=20;
 console.log(a+b) // output 70
