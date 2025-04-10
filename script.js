@@ -58,7 +58,7 @@ console.log(Multiply_two_numbers(6,5)); //output 30
 
  
 
- //                          Q8 Marks Calculator sum and average
+ //                                  Q8 Marks Calculator sum and average
 
  
 let p=90;
