@@ -1,11 +1,11 @@
 
-//                           Q1 Add these two numbers
+//                                     Q1 Add these two numbers
 
 let a=50;
 let b=20;
 console.log(a+b) // output 70
 
-//                           Q2 Find if the conditions are obeyed or not? 
+//                                    Q2 Find if the conditions are obeyed or not? 
 let a1=20;
 let b1=10;
 if (a1>b1)console.log("true");
@@ -13,7 +13,7 @@ else{
     console.log("false"); // output true
 }
 
-//                           Q3 Check the conditions
+//                                    Q3 Check the conditions
 
 //You are given two numbers A� and B�. You need to do the following checks: 
 // 1. if both are divisible by 10 console true. 
@@ -30,7 +30,7 @@ function check(x,y) {
   }
   check(20,40)
 
-  //                        Q4 Find the first digit of a 4 digit number 
+  //                              Q4 Find the first digit of a 4 digit number 
 
 let c=5039;
 result=Math.floor(c/1000);
