@@ -36,13 +36,13 @@ let c=5039;
 result=Math.floor(c/1000);
 console.log(result); //output 5
 
-//                          Q5.Find the last digit of a 4 digit number 
+//                                   Q5.Find the last digit of a 4 digit number 
 
 let d=5039;
 result=Math.floor(d%10);
 console.log(result); // output 9 
 
-//                          Q6 Find the remainder using function
+//                                   Q6 Find the remainder using function
 
 function find_the_remainder(dividend, divisor) {
     return dividend % divisor;
