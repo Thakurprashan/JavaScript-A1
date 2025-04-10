@@ -49,8 +49,8 @@ function find_the_remainder(dividend, divisor) {
   }  
 console.log(find_the_remainder(17, 5)); // output 2
 
-//                           Q7.Multiply two Numbers 
-
+//                                   Q7.Multiply two Numbers 
+ 
 function Multiply_two_numbers(x,y){
     return x*y;
 }
